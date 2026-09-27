@@ -75,6 +75,7 @@
     "site/releases/42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f.json",
     "site/releases/4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5.json",
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json",
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
@@ -96,42 +97,43 @@
     "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7/reader.js",
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
-      "bytes": 500,
-      "sha256": "657138f787761d6ee2f8cc82a3f5572b5bf9575e10b616a52dede9dcff7aab4f"
+      "bytes": 643,
+      "sha256": "4f43367d2b99769a8eece5c05faacad2f5709baa216f4d755e9e541874502121"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 50522,
-      "sha256": "206c83828a6a0ef6820e3a849ef882413d2695f62de1c6f51acf00e7d08eba0a"
+      "sha256": "c352ff545c0d5798e6dcdbcb28da2949b1f4bc1afcc39f509626a5e89a6efcb0"
     },
     "reference/ai-rule/0002.md": {
       "bytes": 53794,
-      "sha256": "580e680646e08a2ce8d8436b9afd3096f82fdbc97612dbab504404ab94a8b2f3"
+      "sha256": "38260889c3aeca0d5e4ee54a4a9cef70793e45d5cc19f9bfb7353cd2746bd48c"
     },
     "reference/ai-rule/0003.md": {
       "bytes": 27585,
-      "sha256": "f297c37098e323c1b132587101da9c8e408e7f1c5a7b086565595ed4820b2e5e"
+      "sha256": "8e7721f4db57257ec02a2544fb4a99389d1b86c9a2b997b43c7574724ca914c5"
     },
     "reference/creature/0001.md": {
       "bytes": 38379,
-      "sha256": "11c8b2ba1195b1882ccac232eb7f510d1ed0420fd353c94154c947a46a372b8d"
+      "sha256": "4fbf4dac64ee45d574efcb3fe9265c79d2d1be0f03bb2420db9963d74e7909b2"
     },
     "reference/index.md": {
       "bytes": 358,
-      "sha256": "9a9fc59818dada0178119d2d67c056e3bc3bb42a813cae82f247266e6b9366fd"
+      "sha256": "66766c0aa2c8e7e9d0430918eb50014db6563bbdc9d76c0773de160f6e1eaa0b"
     },
     "site/.nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "site/404.html": {
-      "bytes": 1396,
-      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+      "bytes": 1499,
+      "sha256": "101523fa704293ea2310fc26d47dc3f191142e6f1f7de2a4050ecb1c244761d5"
     },
     "site/data/0211f95a524a6c31f30e0889060bd7ef21a43e60ddf81110db95b403c183e1ef.json": {
       "bytes": 49672,
@@ -330,16 +332,16 @@
       "sha256": "f59466f0e3d139344032d7c8e67a80dc8b4fdec5e856dc58d44649a4159571d1"
     },
     "site/groups/ai-rule/index.html": {
-      "bytes": 1396,
-      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+      "bytes": 1499,
+      "sha256": "101523fa704293ea2310fc26d47dc3f191142e6f1f7de2a4050ecb1c244761d5"
     },
     "site/groups/creature/index.html": {
-      "bytes": 1396,
-      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+      "bytes": 1499,
+      "sha256": "101523fa704293ea2310fc26d47dc3f191142e6f1f7de2a4050ecb1c244761d5"
     },
     "site/index.html": {
-      "bytes": 1396,
-      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+      "bytes": 1499,
+      "sha256": "101523fa704293ea2310fc26d47dc3f191142e6f1f7de2a4050ecb1c244761d5"
     },
     "site/objects/164ef8454b4c8fbf172c8926ecab11d6ce223969574bf9d4be9f5298d48622ea.json": {
       "bytes": 2320,
@@ -418,8 +420,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 7272,
-      "sha256": "412a241036b098f2758c8d510ea9e64c62d030400c138bb5bd33863037e752c6"
+      "bytes": 7329,
+      "sha256": "2162cdd491edf5454b80fded3ea50e5eb633cd291649e40243c0651496999d30"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6782,
@@ -456,6 +458,10 @@
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json": {
       "bytes": 6782,
       "sha256": "9d15b8d015b84bbffb49b7ebd3e34912f77789ce006610c735c11eb6da243490"
+    },
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json": {
+      "bytes": 7329,
+      "sha256": "2162cdd491edf5454b80fded3ea50e5eb633cd291649e40243c0651496999d30"
     },
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json": {
       "bytes": 6559,
@@ -541,6 +547,10 @@
       "bytes": 27544,
       "sha256": "d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7"
     },
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js": {
+      "bytes": 27577,
+      "sha256": "d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708"
+    },
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js": {
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
@@ -555,7 +565,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "aa1b9c91b75cd657497fbdfac6bc6432182f8a0020aba429cb1c5844b496ba32",
+  "release_id": "53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
