@@ -39,6 +39,7 @@
     "site/objects/75ab413e48795aee200ae75bcac74666bc61144339053b73679006265b97cac7.json",
     "site/objects/83c3220a2d1d0f91e7e1c10959665078e9c6db4654c3a2aec38e1674719ae487.json",
     "site/objects/8dcf3a881ff6bea5069fafe799995120f86f5acfefa4cbc749f4fbb171d54d3e.json",
+    "site/objects/a025a240ba9cbfc43a1fdee72f661b5a39c492440e0e8ff877dbcf72ed777871.json",
     "site/objects/aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee.json",
     "site/objects/c18458836170b1ad5b303702d770e0cdbff6c4dde125673f46b8838071757d9d.json",
     "site/objects/d1e8bdd98bad633c05b4c0034190a3799b9f7de63f283a77fdcd5edd61bd79d5.json",
@@ -65,6 +66,7 @@
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/releases/dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6.json",
     "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json",
+    "site/releases/fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523.json",
     "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js",
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -79,27 +81,27 @@
   "files": {
     "README.md": {
       "bytes": 500,
-      "sha256": "b9a790df32522d1e8d651ed7ad072a5c6e2d5c3cf52cf6eafbefc3b5f9321283"
+      "sha256": "a9666b6a5148f4708e5ecfbbe503b3930fe6452a652306f0a3f79f204b7a1d64"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 49904,
-      "sha256": "8d7b8db5a436c141508eb5f0c0e8b0cee6277644234bec47dd72d4d65e4174a1"
+      "sha256": "b12075f8481ca4f148e30f7f32108973f726807a0cf53576cc6b1fee4fd7e1cf"
     },
     "reference/ai-rule/0002.md": {
       "bytes": 53026,
-      "sha256": "30fd80c881e7b3a05cdb2999d449a1744212ffd7e9651ad019d8dc568a6397c1"
+      "sha256": "6911a1d2cfc1fa2c5ea2f09dc853ea169d39ea8903559302aa262a0fb92c8c74"
     },
     "reference/ai-rule/0003.md": {
       "bytes": 27194,
-      "sha256": "ded28ab42c34a13635d72e7ce67f20da87e43726df5e0f30b94f877baf436baf"
+      "sha256": "2d634afe32093eb67e4a0e44d20fe8e6c0f3f3c7a8cfb468133454c35e56c182"
     },
     "reference/creature/0001.md": {
       "bytes": 38157,
-      "sha256": "85774cacc603e0f0f906e5223e30bedac033c352d8d73022ab6ec9f2d5c16a01"
+      "sha256": "02b1e6f6e7483cd8f2568ecb06603a41abea91d768c97ab5ee9562d6385fedc8"
     },
     "reference/index.md": {
-      "bytes": 348,
-      "sha256": "fcf1d2aa628a2fb6dbcff33bd5ecbc7740d5ef03216662454a63d237e1c57bbc"
+      "bytes": 358,
+      "sha256": "1ba7255c0b680c3ccc096e2954e9385182ffbb19bb4dbcf9215573ebcf732d5e"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -277,6 +279,10 @@
       "bytes": 8218,
       "sha256": "8dcf3a881ff6bea5069fafe799995120f86f5acfefa4cbc749f4fbb171d54d3e"
     },
+    "site/objects/a025a240ba9cbfc43a1fdee72f661b5a39c492440e0e8ff877dbcf72ed777871.json": {
+      "bytes": 674,
+      "sha256": "a025a240ba9cbfc43a1fdee72f661b5a39c492440e0e8ff877dbcf72ed777871"
+    },
     "site/objects/aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee.json": {
       "bytes": 2496,
       "sha256": "aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee"
@@ -311,7 +317,7 @@
     },
     "site/reader.json": {
       "bytes": 7271,
-      "sha256": "4b89c3a82975527bf4183943f0eb0cc843e77697091c1953838f85e9968f54b1"
+      "sha256": "6a5da995a015b88eba40212bba3f00654141c011cca2c499eabdf9357957d51f"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6782,
@@ -393,6 +399,10 @@
       "bytes": 6781,
       "sha256": "2fb60fe151c3d87107eee35b06fb92e99b9922963f79349d2f7abecd1bc65bc8"
     },
+    "site/releases/fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523.json": {
+      "bytes": 7271,
+      "sha256": "6a5da995a015b88eba40212bba3f00654141c011cca2c499eabdf9357957d51f"
+    },
     "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js": {
       "bytes": 26665,
       "sha256": "04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13"
@@ -435,7 +445,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6",
+  "release_id": "fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
