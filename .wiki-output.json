@@ -11,6 +11,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -20,24 +21,25 @@
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
       "bytes": 500,
-      "sha256": "5f423f57ac038a5b324fa7e34e39c1dc14a23525a10427ff4df163af76b9e7f6"
+      "sha256": "e4c84b3de1afc79d36cdc96a59bf4618a04f3cf06df5ea5a0c79447e65054551"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 2196,
-      "sha256": "89a34fc285c72216ea17eaa41c8b2ad2d6d269370418268d9d498a0935b8340a"
+      "sha256": "ab423dcf2d2677a4cf914a44bfea90739dc278e57eff784f9c6649101a81faae"
     },
     "reference/creature/0001.md": {
       "bytes": 38157,
-      "sha256": "6e9b51441997dc26ab9085923d2a0c1d526e0072ac6711efeb4e74f55671824b"
+      "sha256": "7baad517d2552cb8ab1062d372e2bae29dc512610f6d468b53caff3b20ce0bf9"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "a010c77d4e40cddfb167495f1d4cf466257ec16834514fbaac149ba1f3182eda"
+      "sha256": "7d0ac5b9d04b13e42adba78ca85f4daac218ee1d02c5d23e6de420a913db26cb"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -100,8 +102,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 5090,
-      "sha256": "8227c3410aa6ce16699b2630b2bf289fe802d6dee6661057595ec01cca975e01"
+      "bytes": 6015,
+      "sha256": "3b0e22665a8a1bdbdfc375ee644faf8d3af1f4fafa0e89de5544219d703c63c2"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4987,
@@ -114,6 +116,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5035,
       "sha256": "71c072ae4083f44bc2e0055afe22624ef26ef1d04ecc9a627b0a787d6d08e013"
+    },
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
+      "bytes": 6015,
+      "sha256": "3b0e22665a8a1bdbdfc375ee644faf8d3af1f4fafa0e89de5544219d703c63c2"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5060,
@@ -151,13 +157,17 @@
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
     },
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js": {
+      "bytes": 23114,
+      "sha256": "f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67"
+    },
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
       "bytes": 15690,
       "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7",
+  "release_id": "242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
