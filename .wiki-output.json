@@ -1,0 +1,100 @@
+{
+  "files": {
+    "README.md": {
+      "bytes": 500,
+      "sha256": "4aff876b6ee7b98abf13abf1679751ecaeeba3a389b5c86e77399e8fa42ea28a"
+    },
+    "reference/ai-rule/0001.md": {
+      "bytes": 2196,
+      "sha256": "344d0b4cc9d9e9b75c72c9a271ed26b31ebea255412c9aae637b61de08761482"
+    },
+    "reference/creature/0001.md": {
+      "bytes": 38157,
+      "sha256": "5b1837e79682de79f1dd7e58758d080d7443ae233f7ad0817affa3b471651d8d"
+    },
+    "reference/index.md": {
+      "bytes": 274,
+      "sha256": "bcc0aff3425ac16ad161a56bcf3e79f8469c8beea984e8cb0291c7361b32e774"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1396,
+      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+    },
+    "site/data/0f85e6dc7023426daa9c4b697bee5e89e7b2ac67c7154dde6a3f75585cd8cb8d.json": {
+      "bytes": 56983,
+      "sha256": "0f85e6dc7023426daa9c4b697bee5e89e7b2ac67c7154dde6a3f75585cd8cb8d"
+    },
+    "site/data/1628eab801491010c70d38b3c3b2d2d2eee586d4ebda04ae4f7442390cd48e68.json": {
+      "bytes": 131519,
+      "sha256": "1628eab801491010c70d38b3c3b2d2d2eee586d4ebda04ae4f7442390cd48e68"
+    },
+    "site/data/685bd17e914d452ee00c66a472c21885562bb483d8cdacd0f444694c7c3e37ef.json": {
+      "bytes": 31294,
+      "sha256": "685bd17e914d452ee00c66a472c21885562bb483d8cdacd0f444694c7c3e37ef"
+    },
+    "site/data/777179bc08b467cc5d00e25287b72af08099b7ffd1c68dfe367a036ae3231596.json": {
+      "bytes": 20644,
+      "sha256": "777179bc08b467cc5d00e25287b72af08099b7ffd1c68dfe367a036ae3231596"
+    },
+    "site/data/792cc14fb60272eee251be56f24a9d54e58b7621ecadf349a933a04da41b086c.json": {
+      "bytes": 65396,
+      "sha256": "792cc14fb60272eee251be56f24a9d54e58b7621ecadf349a933a04da41b086c"
+    },
+    "site/data/e4e1fdff8d9896c60b4d1f9823a1b3177fffc96e2d3afac5a049de2d0e10376d.json": {
+      "bytes": 65396,
+      "sha256": "e4e1fdff8d9896c60b4d1f9823a1b3177fffc96e2d3afac5a049de2d0e10376d"
+    },
+    "site/groups/ai-rule/index.html": {
+      "bytes": 1396,
+      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+    },
+    "site/groups/creature/index.html": {
+      "bytes": 1396,
+      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+    },
+    "site/index.html": {
+      "bytes": 1396,
+      "sha256": "ecd1f46fd7add290743df077857e55f2f0ff944aa0f7e5bf9f534c18a915b4cf"
+    },
+    "site/objects/2d5311c978c7a985aaf8df15fa8803b25586dd1845a4e9e8a08be72949df4caa.json": {
+      "bytes": 2236,
+      "sha256": "2d5311c978c7a985aaf8df15fa8803b25586dd1845a4e9e8a08be72949df4caa"
+    },
+    "site/objects/c18458836170b1ad5b303702d770e0cdbff6c4dde125673f46b8838071757d9d.json": {
+      "bytes": 2236,
+      "sha256": "c18458836170b1ad5b303702d770e0cdbff6c4dde125673f46b8838071757d9d"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 1371,
+      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+    },
+    "site/reader.json": {
+      "bytes": 4987,
+      "sha256": "d696388df3709e55c70cf14c1d19645e19327d34c8f4bf12a8c7b4fca2f2a4a3"
+    },
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
+      "bytes": 4987,
+      "sha256": "d696388df3709e55c70cf14c1d19645e19327d34c8f4bf12a8c7b4fca2f2a4a3"
+    },
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
+      "bytes": 4358,
+      "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
+    },
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
+      "bytes": 15690,
+      "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "repository_id": "creatures-ai",
+  "schema_version": 1
+}
