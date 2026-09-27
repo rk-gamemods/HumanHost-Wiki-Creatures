@@ -11,6 +11,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -22,19 +23,19 @@
   "files": {
     "README.md": {
       "bytes": 500,
-      "sha256": "0d05d18aa6d2321bad652931b24f74f26ca6909a7f747d9ae1ef2ce76bc21b7d"
+      "sha256": "03ce493b868841210ba29b78972f0bd36e8e6bfde30ee668c810c9a4d06d9c52"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 2196,
-      "sha256": "7343d9a7f003d5dc3181452b2cade4b28b74fed2204746804986a82faa152731"
+      "sha256": "8390e5042cea6b205c29e7ea672f7c377ce8f502cf2b1db7b2011f5f5dad7204"
     },
     "reference/creature/0001.md": {
       "bytes": 38157,
-      "sha256": "16838cf6267da485247caa34babb516bb087f8ec79045072ac433bb5958b5a2c"
+      "sha256": "68aaa52812e36311578d3be14f9c659c54a1d3bb3937fbae261226a0dee188eb"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "03b87ae1c94572c6d2da3e8be65ca05f661059bceeaf2af0363a762074d76919"
+      "sha256": "765c875c9de0b30a2f2287df81ef5136f98b921ab3c89347da56db026798d0ee"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -98,7 +99,7 @@
     },
     "site/reader.json": {
       "bytes": 5060,
-      "sha256": "092cb8f55db894cd8baf7d24742362fc5ded2c24742c164886db0528065dcb35"
+      "sha256": "7b98c129f268379d5c6cf9584b49aa55e67ce344a9902fb9db5377b596c9023c"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4987,
@@ -111,6 +112,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5035,
       "sha256": "71c072ae4083f44bc2e0055afe22624ef26ef1d04ecc9a627b0a787d6d08e013"
+    },
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
+      "bytes": 5060,
+      "sha256": "7b98c129f268379d5c6cf9584b49aa55e67ce344a9902fb9db5377b596c9023c"
     },
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json": {
       "bytes": 5060,
@@ -142,7 +147,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c",
+  "release_id": "84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
