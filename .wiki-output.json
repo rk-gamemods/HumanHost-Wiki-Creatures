@@ -2,19 +2,19 @@
   "files": {
     "README.md": {
       "bytes": 500,
-      "sha256": "4aff876b6ee7b98abf13abf1679751ecaeeba3a389b5c86e77399e8fa42ea28a"
+      "sha256": "75919c3b66951df66b5f22d5afaccb774c5ad7a063286ec3e68b8c914fa66051"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 2196,
-      "sha256": "344d0b4cc9d9e9b75c72c9a271ed26b31ebea255412c9aae637b61de08761482"
+      "sha256": "d984e6644e1942af4fe5fe1f7f40fa27f531900f62e2f281629f37ff75e238f5"
     },
     "reference/creature/0001.md": {
       "bytes": 38157,
-      "sha256": "5b1837e79682de79f1dd7e58758d080d7443ae233f7ad0817affa3b471651d8d"
+      "sha256": "1d82e8470eb7e540a2ae5da27af29eb00d9c0ce9a981971d414331b4242e0e26"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "bcc0aff3425ac16ad161a56bcf3e79f8469c8beea984e8cb0291c7361b32e774"
+      "sha256": "a91b6d09aa7b261611ffc946ef0175d0446d2e30551c8db0d8af0c3e7f6790ae"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -73,16 +73,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4987,
-      "sha256": "d696388df3709e55c70cf14c1d19645e19327d34c8f4bf12a8c7b4fca2f2a4a3"
+      "sha256": "2bda9a164cf4ddcba307329abde2f78ffadccba23a1668d91acb3c1bbafa00c1"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4987,
       "sha256": "d696388df3709e55c70cf14c1d19645e19327d34c8f4bf12a8c7b4fca2f2a4a3"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4987,
+      "sha256": "2bda9a164cf4ddcba307329abde2f78ffadccba23a1668d91acb3c1bbafa00c1"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -94,7 +98,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
