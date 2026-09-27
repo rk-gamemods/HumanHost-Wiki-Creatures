@@ -12,11 +12,13 @@
     "site/objects/164ef8454b4c8fbf172c8926ecab11d6ce223969574bf9d4be9f5298d48622ea.json",
     "site/objects/1ddb1a46f971cee9339ca462e4ceaa6ecee1f18b9c114a166faeb915462b31ab.json",
     "site/objects/2d5311c978c7a985aaf8df15fa8803b25586dd1845a4e9e8a08be72949df4caa.json",
+    "site/objects/5772e01e9b17fc2f9bb5cb6bae83da0bb744ce4d3b8a1a42baebffc617a526d5.json",
     "site/objects/aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee.json",
     "site/objects/c18458836170b1ad5b303702d770e0cdbff6c4dde125673f46b8838071757d9d.json",
     "site/objects/d1e8bdd98bad633c05b4c0034190a3799b9f7de63f283a77fdcd5edd61bd79d5.json",
     "site/objects/e9a78b4a4985c3a92efdc4da812232d4f70ba9fe01fd6d0236db04d591b70ed9.json",
     "site/objects/f82243a47bb98ca2aacd79ca5ccd22e7ad284ce20ce1b55fa65859a5460118c4.json",
+    "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
@@ -45,19 +47,19 @@
   "files": {
     "README.md": {
       "bytes": 500,
-      "sha256": "b5f8ad3e5711aa83824e36d7d5e6ce0c68d06e628448eb7c806dff853ff6729a"
+      "sha256": "9acbd8431327c3dd90c82ced628971f0b572849a39daadc8537fe9693a417f0f"
     },
     "reference/ai-rule/0001.md": {
       "bytes": 2196,
-      "sha256": "0c9c223965453aaa06bc0d6f81d341458733b6be55447ac14987762479595dfb"
+      "sha256": "161a6de766aa60ab7f411f7093a25725c48e3cb342cb132cc039c1f3e0d2d1aa"
     },
     "reference/creature/0001.md": {
       "bytes": 38157,
-      "sha256": "a43c2d8a096bd7e4f6a717411891abf4cf8e35e80ac5fe33df90705fce48872d"
+      "sha256": "25aabdc03441d80d93d7f02836f3e27cc10e6073874abf6086ca1d07e94eb32f"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "6cdf69c437508bc8b4a518a44edc38d4bb46056fa9e67ae224caddaa8435ff64"
+      "sha256": "1a3fe343f40cb3cec05754fe8f9b6a970af6fb869225a2e2caab8e657e67d79f"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -127,6 +129,10 @@
       "bytes": 2236,
       "sha256": "2d5311c978c7a985aaf8df15fa8803b25586dd1845a4e9e8a08be72949df4caa"
     },
+    "site/objects/5772e01e9b17fc2f9bb5cb6bae83da0bb744ce4d3b8a1a42baebffc617a526d5.json": {
+      "bytes": 2497,
+      "sha256": "5772e01e9b17fc2f9bb5cb6bae83da0bb744ce4d3b8a1a42baebffc617a526d5"
+    },
     "site/objects/aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee.json": {
       "bytes": 2496,
       "sha256": "aab5d614e936d0bc4fe7f8a480026bffec296afb1a8196eb9b2757f80166a8ee"
@@ -157,7 +163,11 @@
     },
     "site/reader.json": {
       "bytes": 6782,
-      "sha256": "af45a936224df85eb84b0c0e6541a0dbc124dc770454b4684a42f4054100db64"
+      "sha256": "c9d832c1c39c7d2f6d611acd3c38314af4b32c39faff3f5dc94a3eae9050036c"
+    },
+    "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
+      "bytes": 6782,
+      "sha256": "c9d832c1c39c7d2f6d611acd3c38314af4b32c39faff3f5dc94a3eae9050036c"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4987,
@@ -257,7 +267,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "c8cab53303aa808a64cfca46153681d3f64993d9bc976c49730bf5815d185d8e",
+  "release_id": "012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a",
   "repository_id": "creatures-ai",
   "schema_version": 1
 }
