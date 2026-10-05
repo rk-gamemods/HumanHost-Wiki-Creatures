@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-10-05T07:23:41+00:00",
+    "checked_at": "2026-10-04T18:55:19+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -10,25 +10,25 @@
     "observation": {
       "app_id": "2393970",
       "branch": "public",
-      "branch_updated_at_unix": 1791150020,
-      "build_id": "25716018",
+      "branch_updated_at_unix": 1791132185,
+      "build_id": "25712240",
       "client_sha256": "88f791368cdb3a8c82b84d3ea53f25c18c33b425a0560d5a3f851bd709b35580",
       "depot_manifests": {
-        "2393972": "6753512564671612779"
+        "2393972": "3593326011533444141"
       },
-      "response_sha256": "4cdaf046ee5b874391b3998c5521107081277acedaf9f14d67ea76375d82f46d",
+      "response_sha256": "8fdbb88a6e566c3d0a7aa62419329997124a0de44f219ce41a1dbe1715ac5802",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "ddcac36d4800f3d3b4613c9730015ce7daa81c264f1fc237201c1a2dfb436e8d",
+  "candidate_id": "61c5e59cd5b29d82980f55b197be0ba7829f294e8041b0d89a985537b176ddcc",
   "default_snapshot": "build-25712240-d7c49874ae12",
   "external_articles": {
     "bytes": 674,
-    "path": "objects/78c77ae03eeac58fb43c2a7e0a889f639c28384462d8828ddf81d48e6acdd47a.json",
-    "sha256": "78c77ae03eeac58fb43c2a7e0a889f639c28384462d8828ddf81d48e6acdd47a"
+    "path": "objects/11c1f3814bc0967f51e1458a6d9057e051a1912615d23352d5fc28bec8b3ede5.json",
+    "sha256": "11c1f3814bc0967f51e1458a6d9057e051a1912615d23352d5fc28bec8b3ede5"
   },
   "features": [
     "shard-directories-v1",
@@ -100,10 +100,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "bfdb594679060c4c4edcc7ac3e5530b6bf47673037f761e298d7ac2fb080db13",
+  "release_id": "d3c5dcb8e1a7552701f1fbfc4affa6540f7184e02a8caf359e18fdad28ebcb1d",
   "runtime": {
     "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
-    "js": "runtime/4c73c7ebeec6a74fb82bec88eeea434f70119d4f75cd3b74cbb42e71d0c7d9c9/reader.js"
+    "js": "runtime/e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37/reader.js"
   },
   "schema_version": 1,
   "site": {
@@ -237,44 +237,44 @@
   },
   "snapshots": {
     "build-25548639-0bf00fe33781": {
-      "bytes": 115236,
-      "path": "objects/5767e84090b3b21e560f9841763d558b2c7d49096bb53946adefa4604d4dcb72.json",
-      "sha256": "5767e84090b3b21e560f9841763d558b2c7d49096bb53946adefa4604d4dcb72"
+      "bytes": 115133,
+      "path": "objects/3a23bc491759de134f6d45b38602c0c632869669c9b14803dd30c952e0dac2d7.json",
+      "sha256": "3a23bc491759de134f6d45b38602c0c632869669c9b14803dd30c952e0dac2d7"
     },
     "build-25548639-1080b929da89": {
-      "bytes": 115237,
-      "path": "objects/b916454c8297da9ef23895a54e595295e3583cc10fcb3a2091550ddd50a4de5a.json",
-      "sha256": "b916454c8297da9ef23895a54e595295e3583cc10fcb3a2091550ddd50a4de5a"
+      "bytes": 115134,
+      "path": "objects/c6e9a7f43045d3b632ea22e4a2bb69be351c7860a88b67ea78c3d003d21cf8f6.json",
+      "sha256": "c6e9a7f43045d3b632ea22e4a2bb69be351c7860a88b67ea78c3d003d21cf8f6"
     },
     "build-25548639-8f1263c7d28f": {
-      "bytes": 28419,
-      "path": "objects/9f60f3f8024a38cb125a9269f82e9806c4d6fffc4334560d91c765ad098820dc.json",
-      "sha256": "9f60f3f8024a38cb125a9269f82e9806c4d6fffc4334560d91c765ad098820dc"
+      "bytes": 28316,
+      "path": "objects/35ff8cb70a7513fb38eaf8da7ba13536ad56e4fe4ec8dfb57614f86d9111f95f.json",
+      "sha256": "35ff8cb70a7513fb38eaf8da7ba13536ad56e4fe4ec8dfb57614f86d9111f95f"
     },
     "build-25548639-a7d9406a5bfb": {
-      "bytes": 28419,
-      "path": "objects/c9158d041fc568f1009e7bbf917d1d5e056eda4f52dae2674be20221afa4e94b.json",
-      "sha256": "c9158d041fc568f1009e7bbf917d1d5e056eda4f52dae2674be20221afa4e94b"
+      "bytes": 28316,
+      "path": "objects/b302b0d5268fce5869d4d2dc33c9671f47b0fab60ef4b37f0e2ef12e3d61c6d5.json",
+      "sha256": "b302b0d5268fce5869d4d2dc33c9671f47b0fab60ef4b37f0e2ef12e3d61c6d5"
     },
     "build-25587699-a399133f7ca4": {
-      "bytes": 117922,
-      "path": "objects/df12933da3d5592c8761777505606784e0bdf83dab5aff19d0f34ee98b329ae3.json",
-      "sha256": "df12933da3d5592c8761777505606784e0bdf83dab5aff19d0f34ee98b329ae3"
+      "bytes": 117819,
+      "path": "objects/d7fa31787aa4ab8ae0e601dd184bf13593557f2cdf2246e8b0df9da52187c14e.json",
+      "sha256": "d7fa31787aa4ab8ae0e601dd184bf13593557f2cdf2246e8b0df9da52187c14e"
     },
     "build-25606549-f1e8b4a4a8b8": {
-      "bytes": 123301,
-      "path": "objects/3c7aa8946c8ed6d051712642ca094c54ee879eb031b808115ef2e49add2d7489.json",
-      "sha256": "3c7aa8946c8ed6d051712642ca094c54ee879eb031b808115ef2e49add2d7489"
+      "bytes": 123198,
+      "path": "objects/db2eb12e6c509b49413817506b678d30995c0ca7dcf09082cbb77625213d3ee6.json",
+      "sha256": "db2eb12e6c509b49413817506b678d30995c0ca7dcf09082cbb77625213d3ee6"
     },
     "build-25675256-8764ea7be0f8": {
-      "bytes": 123297,
-      "path": "objects/4fbbf7526d6653c8a0c0d38c3c406db02bd731898ee05dfcb57fa24f5e1903aa.json",
-      "sha256": "4fbbf7526d6653c8a0c0d38c3c406db02bd731898ee05dfcb57fa24f5e1903aa"
+      "bytes": 123194,
+      "path": "objects/1e5ea25abfc859d9d4c30c0bcbc8e86752badf26d692380fe6156570be1b8452.json",
+      "sha256": "1e5ea25abfc859d9d4c30c0bcbc8e86752badf26d692380fe6156570be1b8452"
     },
     "build-25712240-d7c49874ae12": {
-      "bytes": 123302,
-      "path": "objects/9ac4e10c13cc1b3fe9f3c4e20fd1238d7337fed6cfa54cbd3cf7e012e36cb180.json",
-      "sha256": "9ac4e10c13cc1b3fe9f3c4e20fd1238d7337fed6cfa54cbd3cf7e012e36cb180"
+      "bytes": 123196,
+      "path": "objects/e01422eb0ad6b11f979c82698554962f9c5d2fe9171437a5be14f73ecd732533.json",
+      "sha256": "e01422eb0ad6b11f979c82698554962f9c5d2fe9171437a5be14f73ecd732533"
     }
   },
   "topic": "creatures-ai",
@@ -377,8 +377,8 @@
           "terra block"
         ]
       },
-      "identity_run": "27b1e739058de950b67872e6783eeaa5c3c872e11e1dcf073fca21bc1d9827a1",
-      "observations": 27283,
+      "identity_run": "2d59fb0bf973aeeb0bb6d3a6c27caaca85a8a7a696da4fd23a01fc86b3aa7aef",
+      "observations": 27281,
       "snapshot_id": "build-25712240-d7c49874ae12"
     },
     {
